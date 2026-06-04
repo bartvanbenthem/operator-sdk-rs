@@ -8,11 +8,9 @@ Please update any bookmarks, clone URLs, or dependency references.
 
 ## Crates
 
-| Crate | crates.io |
-|-------|-----------|
-| [`koprs`](https://crates.io/crates/koprs) | [![crates.io](https://img.shields.io/crates/v/koprs)](https://crates.io/crates/koprs) |
-| [`koprs-derive`](https://crates.io/crates/koprs-derive) | [![crates.io](https://img.shields.io/crates/v/koprs-derive)](https://crates.io/crates/koprs-derive) |
-| [`koprs-gen`](https://crates.io/crates/koprs-gen) | [![crates.io](https://img.shields.io/crates/v/koprs-gen)](https://crates.io/crates/koprs-gen) |
+| Crate | Description | Docs |
+|-------|-------------|------|
+| [`koprs`](./crates/koprs) | Core generic runtime framework | [![docs.rs](https://img.shields.io/docsrs/koprs)](https://docs.rs/koprs) [![crates.io](https://img.shields.io/crates/v/koprs)](https://crates.io/crates/koprs) |
 
 ## New location
 
